@@ -1,0 +1,24 @@
+{
+  "name": "ugs-firstemail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanaat-xyz/ugs-firstemail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanaat-xyz/ugs-firstemail/issues"
+  },
+  "homepage": "https://github.com/hasanaat-xyz/ugs-firstemail#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "nodemailer": "^8.0.7"
+  }
+}
