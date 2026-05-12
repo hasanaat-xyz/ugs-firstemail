@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hasanaat-xyz/ugs-firstemail#readme",
   "dependencies": {
     "dotenv": "^17.4.2",
-    "nodemailer": "^8.0.7"
+    "nodemailer": "^8.0.7",
+    "resend": "^6.12.3"
   }
 }
